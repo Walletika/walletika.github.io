@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "b4d452beef75c7bac65a4266e13dd0cd",
+const RESOURCES = {"assets/AssetManifest.bin": "6f38c160c2e37cbf07fceeac84f6a5cc",
 "assets/AssetManifest.json": "580dc62431c5f4d59f7e3f221d8d7812",
 "assets/assets/fonts/Roboto-Black.ttf": "56aa07e4f2f764e31cb09d8ad1362808",
 "assets/assets/fonts/Roboto-BlackItalic.ttf": "cb78d8420ac5bc66e3606dd582d5bc08",
@@ -34,7 +34,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "b4d452beef75c7bac65a4266e13dd0cd
 "assets/assets/logos/app_logo.png": "3f076bda65aaf8e566b579c635f469bf",
 "assets/FontManifest.json": "d64fde0ba9eee651055d3fd1c810ecd5",
 "assets/fonts/MaterialIcons-Regular.otf": "79f6f766554fddf8b644be46cd613e70",
-"assets/NOTICES": "10b8dd5bb9e17856eddb7d7affbcf6d7",
+"assets/NOTICES": "d75690c7073e0972a4f9b235a5247c7d",
 "assets/packages/line_icons/lib/assets/fonts/LineIcons.ttf": "bcaf3ba974cf7900b3c158ca593f4971",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
@@ -50,11 +50,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "b4d452beef75c7bac65a4266e13dd0cd
 "icons/Icon-512.png": "c08305b8702a246b017ade24412346f2",
 "icons/Icon-maskable-192.png": "f472405902b99b6ef988383113650d22",
 "icons/Icon-maskable-512.png": "c08305b8702a246b017ade24412346f2",
-"index.html": "4be1d3d6b0c9eb13dc9fb24ded9e80b2",
-"/": "4be1d3d6b0c9eb13dc9fb24ded9e80b2",
-"main.dart.js": "ea26e46e32bedc0231e32cf2eb6f3380",
+"index.html": "afb4d5d68ac446cd237e7ca6f647cca6",
+"/": "afb4d5d68ac446cd237e7ca6f647cca6",
+"main.dart.js": "2b66592a90a1fae44e4dde31dea6585f",
 "manifest.json": "db11d8c0600a877f56a2dbea3988483c",
-"version.json": "ec11ce6852a5b68944af8fa4dd467697"};
+"version.json": "c2602cea4d635ea9e321fad053d993fc"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",

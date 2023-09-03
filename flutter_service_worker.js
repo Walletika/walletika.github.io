@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "6f38c160c2e37cbf07fceeac84f6a5cc",
-"assets/AssetManifest.json": "580dc62431c5f4d59f7e3f221d8d7812",
+const RESOURCES = {"assets/AssetManifest.bin": "06694f73910ebd7ddca3c79c13c33002",
+"assets/AssetManifest.json": "f97b5f265b3d73b1a6ba124b0bbe0872",
 "assets/assets/fonts/Roboto-Black.ttf": "56aa07e4f2f764e31cb09d8ad1362808",
 "assets/assets/fonts/Roboto-BlackItalic.ttf": "cb78d8420ac5bc66e3606dd582d5bc08",
 "assets/assets/fonts/Roboto-Bold.ttf": "fb6210739c4993c1a86f812e6502e471",
@@ -33,8 +33,23 @@ const RESOURCES = {"assets/AssetManifest.bin": "6f38c160c2e37cbf07fceeac84f6a5cc
 "assets/assets/illustrations/wallet_login_dark.png": "d9187cf27aab4bf315a80cfc5a4df83a",
 "assets/assets/logos/app_logo.png": "3f076bda65aaf8e566b579c635f469bf",
 "assets/FontManifest.json": "d64fde0ba9eee651055d3fd1c810ecd5",
-"assets/fonts/MaterialIcons-Regular.otf": "79f6f766554fddf8b644be46cd613e70",
-"assets/NOTICES": "d52f331f36c82f7ace483c83b5d47afd",
+"assets/fonts/MaterialIcons-Regular.otf": "22b9af6d3577f3b4d45d05f642225b6c",
+"assets/NOTICES": "d1b445ee046bfcbe324e2dea496b21b9",
+"assets/packages/awesome_dialog/assets/flare/error.flr": "e3b124665e57682dab45f4ee8a16b3c9",
+"assets/packages/awesome_dialog/assets/flare/info.flr": "bc654ba9a96055d7309f0922746fe7a7",
+"assets/packages/awesome_dialog/assets/flare/info2.flr": "21af33cb65751b76639d98e106835cfb",
+"assets/packages/awesome_dialog/assets/flare/info_without_loop.flr": "cf106e19d7dee9846bbc1ac29296a43f",
+"assets/packages/awesome_dialog/assets/flare/question.flr": "1c31ec57688a19de5899338f898290f0",
+"assets/packages/awesome_dialog/assets/flare/succes.flr": "ebae20460b624d738bb48269fb492edf",
+"assets/packages/awesome_dialog/assets/flare/succes_without_loop.flr": "3d8b3b3552370677bf3fb55d0d56a152",
+"assets/packages/awesome_dialog/assets/flare/warning.flr": "68898234dacef62093ae95ff4772509b",
+"assets/packages/awesome_dialog/assets/flare/warning_without_loop.flr": "c84f528c7e7afe91a929898988012291",
+"assets/packages/awesome_dialog/assets/rive/error.riv": "e74e21f8b53de4b541dd037c667027c1",
+"assets/packages/awesome_dialog/assets/rive/info.riv": "2a425920b11404228f613bc51b30b2fb",
+"assets/packages/awesome_dialog/assets/rive/info_reverse.riv": "c6e814d66c0e469f1574a2f171a13a76",
+"assets/packages/awesome_dialog/assets/rive/question.riv": "00f02da4d08c2960079d4cd8211c930c",
+"assets/packages/awesome_dialog/assets/rive/success.riv": "73618ab4166b406e130c2042dc595f42",
+"assets/packages/awesome_dialog/assets/rive/warning.riv": "0becf971559a68f9a74c8f0c6e0f8335",
 "assets/packages/line_icons/lib/assets/fonts/LineIcons.ttf": "bcaf3ba974cf7900b3c158ca593f4971",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
@@ -50,11 +65,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "6f38c160c2e37cbf07fceeac84f6a5cc
 "icons/Icon-512.png": "c08305b8702a246b017ade24412346f2",
 "icons/Icon-maskable-192.png": "f472405902b99b6ef988383113650d22",
 "icons/Icon-maskable-512.png": "c08305b8702a246b017ade24412346f2",
-"index.html": "db9c5de0d2d0fe376980ff2056733054",
-"/": "db9c5de0d2d0fe376980ff2056733054",
-"main.dart.js": "273f18566933f824aea6e1c9b36d04a2",
+"index.html": "8fb089c6730a86563abf8f34ea0eee5b",
+"/": "8fb089c6730a86563abf8f34ea0eee5b",
+"main.dart.js": "23949114ca6743161088fc98a3eb85e4",
 "manifest.json": "db11d8c0600a877f56a2dbea3988483c",
-"version.json": "ba117a86d52a03b50075e205684881c0"};
+"version.json": "c5c6cb97a769801e6103597dbdb54ddd"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",

@@ -24,7 +24,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "eb8512e7eab1829f36e7dfb0aa41f3b9
 "assets/assets/illustrations/telegram.png": "2948042bc6a950859ef2344e1c63dc2c",
 "assets/assets/illustrations/usb.jpeg": "2d2a721a761d054d050f984296a40a1c",
 "assets/assets/illustrations/wallet.png": "fde16027b6e0bf1b719c6cc886fb2739",
-"assets/assets/illustrations/wallets.png": "1b4a5fd2e888744006b3b18b1c1116c3",
+"assets/assets/illustrations/wallets.png": "0896151f61969ae07a5baa4c657e6f32",
 "assets/assets/illustrations/wallet_auth.png": "5e573a9c0c963000d60bd1c51626eb8b",
 "assets/assets/illustrations/wallet_blockchains.png": "00f598424ee1a01cf678349a8ce66b5a",
 "assets/assets/illustrations/wallet_login.png": "601c447650ef26990c4cbb57928a02cf",
@@ -63,9 +63,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "eb8512e7eab1829f36e7dfb0aa41f3b9
 "icons/Icon-512.png": "c08305b8702a246b017ade24412346f2",
 "icons/Icon-maskable-192.png": "f472405902b99b6ef988383113650d22",
 "icons/Icon-maskable-512.png": "c08305b8702a246b017ade24412346f2",
-"index.html": "935b8c78125844cf3ccd1b3ddbbcc8e1",
-"/": "935b8c78125844cf3ccd1b3ddbbcc8e1",
-"main.dart.js": "fc4eeb378830863f53ce2e14afd3b557",
+"index.html": "c461e9630a749af47a1747907a666832",
+"/": "c461e9630a749af47a1747907a666832",
+"main.dart.js": "20d448edc1196db2d870d145ac1140e6",
 "manifest.json": "db11d8c0600a877f56a2dbea3988483c",
 "version.json": "077bca963292a54fe3f9380826560ae2"};
 // The application shell files that are downloaded before a service worker can

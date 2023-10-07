@@ -92930,26 +92930,26 @@ A.PP.prototype={
 hx(){return B.akb},
 pt(a){return B.alj}}
 A.Z4.prototype={
-D(a){var s,r,q=null,p=A.W("1018@home"),o=t.p
-p=A.cG(A.b([new A.cv(1,B.U,A.LH(a,q,A.W("1019@home"),q,p),q),new A.cv(1,B.U,A.ie(q,!1,q,q,q,"assets/illustrations/wallet_staking.png",q,550),q)],o),B.t,B.d0,B.v,q,B.J)
+D(a){var s,r,q=null,p=A.W("1014@home"),o=t.p
+p=A.cG(A.b([new A.cv(1,B.U,A.LH(a,q,A.W("1015@home"),q,p),q),new A.cv(1,B.U,A.ie(q,!1,q,q,q,"assets/illustrations/wallets.png",q,550),q)],o),B.t,B.d0,B.v,q,B.J)
 s=A.ie(q,!1,q,q,q,u.F,q,550)
 r=A.W("1012@home")
 r=A.cG(A.b([new A.cv(1,B.U,s,q),new A.cv(1,B.U,A.LH(a,q,A.W("1013@home"),q,r),q)],o),B.t,B.d0,B.v,q,B.J)
-s=A.W("1014@home")
-return A.dp(q,q,A.b([p,r,A.cG(A.b([new A.cv(1,B.U,A.LH(a,q,A.W("1015@home"),q,s),q),new A.cv(1,B.U,A.ie(q,!1,q,q,q,"assets/illustrations/wallets.png",q,550),q)],o),B.t,B.d0,B.v,q,B.J)],o),q,q,q,B.af,q,q,!1,q,50)}}
+s=A.W("1018@home")
+return A.dp(q,q,A.b([p,r,A.cG(A.b([new A.cv(1,B.U,A.LH(a,q,A.W("1019@home"),q,s),q),new A.cv(1,B.U,A.ie(q,!1,q,q,q,"assets/illustrations/wallet_staking.png",q,550),q)],o),B.t,B.d0,B.v,q,B.J)],o),q,q,q,B.af,q,q,!1,q,50)}}
 A.a1_.prototype={
-D(a){var s,r,q,p,o,n,m,l,k=null,j=A.W("1018@home")
-j=A.LH(a,B.t,A.W("1019@home"),B.y,j)
+D(a){var s,r,q,p,o,n,m,l,k=null,j=A.W("1014@home")
+j=A.LH(a,B.t,A.W("1015@home"),B.y,j)
 s=A.aj(k,30,k)
-r=A.ie(k,!1,k,k,k,"assets/illustrations/wallet_staking.png",k,550)
+r=A.ie(k,!1,k,k,k,"assets/illustrations/wallets.png",k,550)
 q=A.aj(k,50,k)
 p=A.W("1012@home")
 p=A.LH(a,B.t,A.W("1013@home"),B.y,p)
 o=A.aj(k,30,k)
 n=A.ie(k,!1,k,k,k,u.F,k,550)
 m=A.aj(k,50,k)
-l=A.W("1014@home")
-return A.dp(k,k,A.b([j,s,r,q,p,o,n,m,A.LH(a,B.t,A.W("1015@home"),B.y,l),A.aj(k,30,k),A.ie(k,!1,k,k,k,"assets/illustrations/wallets.png",k,550)],t.p),k,k,k,B.af,k,k,!1,k,50)}}
+l=A.W("1018@home")
+return A.dp(k,k,A.b([j,s,r,q,p,o,n,m,A.LH(a,B.t,A.W("1019@home"),B.y,l),A.aj(k,30,k),A.ie(k,!1,k,k,k,"assets/illustrations/wallet_staking.png",k,550)],t.p),k,k,k,B.af,k,k,!1,k,50)}}
 A.RV.prototype={
 hx(){return B.akg},
 pA(){return B.aly}}

@@ -96954,7 +96954,7 @@ r=s.a<r.a
 s=r}else s=!1}else s=!1
 return s},
 ga_y(){var s=this.c/this.b
-return s>=1?s:0.01}}
+return s>=0.01?s:0.01}}
 A.uR.prototype={}
 A.ln.prototype={}
 A.au2.prototype={

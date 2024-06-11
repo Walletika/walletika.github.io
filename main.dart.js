@@ -97131,7 +97131,7 @@ o=o.cv(0,q,s).ay
 o=o.gl(o)
 r=$.aT;(r==null?$.aT=B.E:r).cv(0,q,s).toString
 r=$.aT
-return new A.DU("/","Walletika - AI & Secure Crypto Wallet",p,new A.a9l(),new A.kV(o,q),!1,B.A0,(r==null?$.aT=B.E:r).cv(0,q,s).ga1A(),q)}}
+return new A.DU("/","Walletika AI - The Most Secure Crypto Wallet Presale is LIVE!",p,new A.a9l(),new A.kV(o,q),!1,B.A0,(r==null?$.aT=B.E:r).cv(0,q,s).ga1A(),q)}}
 A.n4.prototype={}
 A.abI.prototype={
 kf(a,b){switch(b){case"ar":return this.b

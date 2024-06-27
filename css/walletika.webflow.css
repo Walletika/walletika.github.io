@@ -765,7 +765,7 @@ body {
 
 .section-fixed.banner-fixed-section.ai-banner-section {
   color: #fff;
-  background-image: url('../images/ai.jpg');
+  background-image: url('../images/ai_1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2189,6 +2189,11 @@ body {
     grid-row-gap: 4px;
   }
 
+  .button-outlined {
+    width: 145px;
+    height: 45px;
+  }
+
   .banner-fixed {
     text-align: center;
     justify-content: center;
@@ -2249,12 +2254,22 @@ body {
     line-height: 40px;
   }
 
+  .button-fillied {
+    width: 145px;
+    height: 45px;
+  }
+
   .ai-banner-content {
     width: 300px;
   }
 
   .feature-content {
     width: auto;
+  }
+
+  .download-button {
+    width: 145px;
+    height: 45px;
   }
 
   .content-box-partner {

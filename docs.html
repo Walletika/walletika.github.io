@@ -1,4 +1,4 @@
-<!DOCTYPE html><!--  This site was created in Webflow. https://webflow.com  --><!--  Last Published: Thu Jun 27 2024 07:24:46 GMT+0000 (Coordinated Universal Time)  -->
+<!DOCTYPE html><!--  This site was created in Webflow. https://webflow.com  --><!--  Last Published: Tue Jul 09 2024 12:14:32 GMT+0000 (Coordinated Universal Time)  -->
 <html data-wf-page="6676cf26c3b463480cfbc3c2" data-wf-site="6668cc256e646b8e978cacc9">
 <head>
   <meta charset="utf-8">
@@ -28,8 +28,6 @@
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-R5BC7D2T3T"></script>
   <script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('set', 'developer_id.dZGVlNj', true);gtag('config', 'G-R5BC7D2T3T');</script>
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-R5BC7D2T3T"></script>
-  <script async="" src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script async="" src="https://cdn.jsdelivr.net/npm/moment@2.29.1/min/moment.min.js"></script>
   <!--  NProgress  -->
   <style>
     .linear-progress-indicator {
@@ -40,26 +38,22 @@
         100% { transform: translateX(200%); } /* End position off-screen right */
     }
 </style>
+  <script async="" src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script async="" src="https://cdn.jsdelivr.net/npm/moment@2.30.1/min/moment.min.js"></script>
 </head>
 <body class="body">
   <section class="navigator-section">
     <div class="navigator">
       <div class="brand-box">
-        <a href="index.html" class="w-inline-block"><img src="images/walletika-200.png" loading="lazy" width="Auto" height="Auto" alt="" class="brand-logo"></a>
+        <a href="/" class="w-inline-block"><img src="images/walletika-200.png" loading="lazy" width="Auto" height="Auto" alt="" class="brand-logo"></a>
         <h3 class="text-frameless">Walletika</h3>
       </div>
       <div class="nav-pages desktop-view">
-        <a href="index.html" class="button-small-text">Home</a>
-        <a href="download.html" class="button-small-text">Download</a>
-        <div><img src="images/live-status.gif" loading="lazy" width="30" height="30" alt="" class="live-dot-image">
-          <a href="presale.html" class="button-small-text">Presale</a>
-        </div>
-        <a href="docs.html" aria-current="page" class="button-small-text w--current">Docs</a>
+        <a href="/" class="button-small-text">Home</a>
+        <a href="/download" class="button-small-text">Download</a>
+        <a href="/docs" aria-current="page" class="button-small-text w--current">Docs</a>
       </div>
       <div class="nav-pages mobile-view">
-        <div><img src="images/live-status.gif" loading="lazy" width="30" height="30" alt="" class="live-dot-image">
-          <a href="presale.html" class="button-small-text">Presale</a>
-        </div>
         <a id="js-drawer-button" href="#" class="button-icon menu-icon-button"></a>
       </div>
     </div>
@@ -91,36 +85,30 @@ document.addEventListener("DOMContentLoaded", function() {
       <div class="feature-box dialog-box drawer-box">
         <div class="drawer-top-item">
           <div class="brand-box">
-            <a href="index.html" class="w-inline-block"><img src="images/walletika-200.png" loading="lazy" width="Auto" height="Auto" alt="" class="brand-logo"></a>
+            <a href="/" class="w-inline-block"><img src="images/walletika-200.png" loading="lazy" width="Auto" height="Auto" alt="" class="brand-logo"></a>
             <h3 class="text-frameless">Walletika</h3>
           </div>
         </div>
-        <a href="index.html" class="drawer-button">Home</a>
-        <a href="download.html" class="drawer-button">Download</a>
-        <a href="presale.html" class="drawer-button">Presale</a>
-        <a href="docs.html" aria-current="page" class="drawer-button w--current">Docs</a>
+        <a href="/" class="drawer-button">Home</a>
+        <a href="/download" class="drawer-button">Download</a>
+        <a href="/docs" aria-current="page" class="drawer-button w--current">Docs</a>
         <div class="drawer-info-box">
           <p class="text-gray">Features</p>
         </div>
-        <a href="https://walletika.webflow.io/docs?article=what-is-walletika-ai" class="drawer-button">Walletika AI</a>
-        <a href="https://walletika.webflow.io/docs?article=what-is-keyless" class="drawer-button">Keyless</a>
-        <a href="https://walletika.webflow.io/docs?article=how-to-install" class="drawer-button">Cold Wallet</a>
-        <a href="https://walletika.webflow.io/docs?article=how-to-setup-2fa" class="drawer-button">2FA</a>
-        <a href="https://walletika.webflow.io/docs?article=how-to-receive" class="drawer-button">Deposit</a>
-        <a href="https://walletika.webflow.io/docs?article=how-to-send" class="drawer-button">Withdraw</a>
-        <a href="https://walletika.webflow.io/docs?article=how-to-stake" class="drawer-button">Staking</a>
-        <a href="https://walletika.webflow.io/docs?article=how-to-backup" class="drawer-button">Backup</a>
+        <a href="/docs?article=what-is-walletika-ai" class="drawer-button">Walletika AI</a>
+        <a href="/docs?article=what-is-keyless" class="drawer-button">Keyless</a>
+        <a href="/docs?article=how-to-install" class="drawer-button">Cold Wallet</a>
+        <a href="/docs?article=how-to-setup-2fa" class="drawer-button">2FA</a>
+        <a href="/docs?article=how-to-receive" class="drawer-button">Deposit</a>
+        <a href="/docs?article=how-to-send" class="drawer-button">Withdraw</a>
+        <a href="/docs?article=how-to-stake" class="drawer-button">Staking</a>
+        <a href="/docs?article=how-to-backup" class="drawer-button">Backup</a>
         <div class="drawer-info-box">
           <p class="text-gray">About us</p>
         </div>
-        <a href="https://walletika.webflow.io/docs?article=what-is-walletika" class="drawer-button">What is Walletika?</a>
-        <a href="https://drive.google.com/file/d/107uPaQFJJaj7y146Rrxn4stDphdM0Az4" target="_blank" class="drawer-button">Whitepaper</a>
-        <a href="https://drive.google.com/file/d/107uPaQFJJaj7y146Rrxn4stDphdM0Az4" target="_blank" class="drawer-button">Roadmap</a>
-        <a href="https://bscscan.com/address/0x9eE10d2E9571AecfE5a604aF7fE71B96eBa84b7b" target="_blank" class="drawer-button">$WLTK Explorer</a>
-        <a href="https://www.cyberscope.io/audits/wltk" target="_blank" class="drawer-button">Audit Report</a>
-        <a href="https://github.com/cyberscope-io/kyc/blob/main/wltk/kyc.png" target="_blank" class="drawer-button">KYC Certificiate</a>
-        <a href="https://walletika.webflow.io/docs?article=terms-of-use" class="drawer-button">Terms of Service</a>
-        <a href="https://walletika.webflow.io/docs?article=privacy-policy" class="drawer-button">Privacy Policy</a>
+        <a href="/docs?article=what-is-walletika" class="drawer-button">What is Walletika?</a>
+        <a href="/docs?article=terms-of-use" class="drawer-button">Terms of Service</a>
+        <a href="/docs?article=privacy-policy" class="drawer-button">Privacy Policy</a>
         <div class="drawer-info-box">
           <p class="text-gray">Follow us</p>
         </div>
@@ -163,7 +151,7 @@ document.addEventListener("DOMContentLoaded", function() {
   <section>
     <div id="js-article-section" class="section-fixed article-section">
       <div class="wrap-box wrap-box-nav-docs">
-        <a href="docs.html" aria-current="page" class="all-topics-button w--current">All Topcis</a><img src="images/arrow-right-60.png" loading="lazy" width="20" height="20" alt="">
+        <a href="/docs" aria-current="page" class="all-topics-button w--current">All Topcis</a><img src="images/arrow-right-60.png" loading="lazy" width="20" height="20" alt="">
         <p id="js-article-title-nav" class="text-frameless text-gray">--</p>
       </div>
       <div class="content-box">
@@ -182,7 +170,7 @@ document.addEventListener("DOMContentLoaded", function() {
     <div class="section-fixed footer-section">
       <div class="footer-brand">
         <div class="brand-box">
-          <a href="index.html" class="w-inline-block"><img src="images/walletika-200.png" loading="lazy" width="Auto" height="Auto" alt="" class="brand-logo"></a>
+          <a href="/" class="w-inline-block"><img src="images/walletika-200.png" loading="lazy" width="Auto" height="Auto" alt="" class="brand-logo"></a>
           <h3 class="text-frameless">Walletika</h3>
         </div>
         <p class="text-gray">© 2023 Walletika Ltd. All rights reserved. Walletika was founded by Mahmoud Khalid.</p>
@@ -207,34 +195,24 @@ document.addEventListener("DOMContentLoaded", function() {
       <div class="footer-rows">
         <div class="footer-row">
           <h5>Wallet</h5>
-          <a href="download.html" class="footer-button">Android</a>
-          <a href="download.html" class="footer-button">Windows</a>
+          <a href="/download" class="footer-button">Android</a>
+          <a href="/download" class="footer-button">Windows</a>
         </div>
         <div class="footer-row">
           <h5>Features</h5>
-          <a href="https://walletika.webflow.io/docs?article=what-is-walletika-ai" class="footer-button">Walletika AI</a>
-          <a href="https://walletika.webflow.io/docs?article=what-is-keyless" class="footer-button">keyless</a>
-          <a href="https://walletika.webflow.io/docs?article=how-to-setup-2fa" class="footer-button">2FA</a>
-          <a href="https://walletika.webflow.io/docs?article=how-to-receive" class="footer-button">Deposit</a>
-          <a href="https://walletika.webflow.io/docs?article=how-to-send" class="footer-button">Withdraw</a>
-          <a href="https://walletika.webflow.io/docs?article=how-to-stake" class="footer-button">Staking</a>
-          <a href="https://walletika.webflow.io/docs?article=how-to-backup" class="footer-button">Backup</a>
-          <a href="https://walletika.webflow.io/docs?article=how-to-install" class="footer-button">Cold Wallet</a>
-        </div>
-        <div class="footer-row">
-          <h5>Token</h5>
-          <a href="presale.html" class="footer-button">Tokenomics</a>
-          <a href="https://bscscan.com/address/0x9eE10d2E9571AecfE5a604aF7fE71B96eBa84b7b" target="_blank" class="footer-button">Explorer</a>
-          <a href="presale.html" class="footer-button">Presale</a>
-          <a href="https://www.cyberscope.io/audits/wltk" target="_blank" class="footer-button">Audit</a>
+          <a href="/docs?article=what-is-walletika-ai" class="footer-button">Walletika AI</a>
+          <a href="/docs?article=what-is-keyless" class="footer-button">keyless</a>
+          <a href="/docs?article=how-to-setup-2fa" class="footer-button">2FA</a>
+          <a href="/docs?article=how-to-receive" class="footer-button">Deposit</a>
+          <a href="/docs?article=how-to-send" class="footer-button">Withdraw</a>
+          <a href="/docs?article=how-to-stake" class="footer-button">Staking</a>
+          <a href="/docs?article=how-to-backup" class="footer-button">Backup</a>
+          <a href="/docs?article=how-to-install" class="footer-button">Cold Wallet</a>
         </div>
         <div class="footer-row">
           <h5>Docs</h5>
-          <a href="https://drive.google.com/file/d/107uPaQFJJaj7y146Rrxn4stDphdM0Az4" target="_blank" class="footer-button">Whitepaper</a>
-          <a href="https://drive.google.com/file/d/107uPaQFJJaj7y146Rrxn4stDphdM0Az4" target="_blank" class="footer-button">Roadmap</a>
-          <a href="https://github.com/cyberscope-io/kyc/blob/main/wltk/kyc.png" target="_blank" class="footer-button">KYC</a>
-          <a href="https://walletika.webflow.io/docs?article=privacy-policy" class="footer-button">Privacy Policy</a>
-          <a href="https://walletika.webflow.io/docs?article=terms-of-use" class="footer-button">Terms of Service</a>
+          <a href="/docs?article=privacy-policy" class="footer-button">Privacy Policy</a>
+          <a href="/docs?article=terms-of-use" class="footer-button">Terms of Service</a>
         </div>
         <div class="footer-row">
           <h5>Support</h5>
@@ -276,6 +254,9 @@ document.addEventListener("DOMContentLoaded", function() {
     var referralID = new URL(window.location.href).searchParams.get("id");
     if (referralID) {
         localStorage.setItem('referralID', referralID);
+      	googleLogs('event', 'Referral', {
+          'referrals': referralID
+        });
     }
   }
 </script>

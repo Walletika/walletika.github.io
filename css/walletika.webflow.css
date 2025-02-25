@@ -423,6 +423,12 @@ body {
   align-items: center;
 }
 
+.content-box.create-wallet-content-box {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
 .heading-4 {
   font-size: 50px;
 }
@@ -608,6 +614,11 @@ body {
   border-color: #ff9800;
 }
 
+.button-outlined.whitepaper-button {
+  text-align: center;
+  flex-flow: column;
+}
+
 .button-app-imaged {
   background-image: url('../images/google_store.png');
   background-position: 50%;
@@ -769,8 +780,6 @@ body {
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
   justify-content: flex-end;
   align-items: flex-start;
   min-height: 450px;
@@ -898,7 +907,7 @@ body {
   justify-content: space-around;
 }
 
-.section-fixed.how-buy-section {
+.section-fixed.youtube-section {
   grid-column-gap: 40px;
   grid-row-gap: 40px;
 }
@@ -1734,7 +1743,7 @@ body {
 }
 
 .qrcode-box {
-  background-color: #eee;
+  border: 1px solid #e1e1e1;
   border-radius: 10px;
   flex-flow: column;
   justify-content: center;
@@ -1914,6 +1923,11 @@ body {
 
 .drawer-button:hover {
   background-color: #f9f9f9;
+}
+
+.roadmap-button {
+  font-size: 13px;
+  font-weight: 400;
 }
 
 @media screen and (max-width: 991px) {

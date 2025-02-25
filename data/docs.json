@@ -6,31 +6,31 @@
             {
                 "id": "what-is-walletika",
                 "title": "What is Walletika?",
-                "content": "https://walletika.io/data/docs/what-is-walletika/en.md",
+                "content": "https://walletika.github.io/data/docs/what-is-walletika/en.md",
                 "date": 1686930394198
             },
             {
                 "id": "what-is-walletika-ai",
                 "title": "What is Walletika AI?",
-                "content": "https://walletika.io/data/docs/what-is-walletika-ai/en.md",
+                "content": "https://walletika.github.io/data/docs/what-is-walletika-ai/en.md",
                 "date": 1716696353881
             },
             {
                 "id": "what-is-keyless",
                 "title": "What is keyless mean?",
-                "content": "https://walletika.io/data/docs/what-is-keyless/en.md",
+                "content": "https://walletika.github.io/data/docs/what-is-keyless/en.md",
                 "date": 1686930394198
             },
             {
                 "id": "how-different-from-other",
                 "title": "How is Walletika different from other wallets?",
-                "content": "https://walletika.io/data/docs/how-different-from-other/en.md",
+                "content": "https://walletika.github.io/data/docs/how-different-from-other/en.md",
                 "date": 1686930394198
             },
             {
                 "id": "whitepaper",
                 "title": "Walletika whitepaper",
-                "content": "https://walletika.io/data/docs/whitepaper/en.md",
+                "content": "https://walletika.github.io/data/docs/whitepaper/en.md",
                 "date": 1692099905465
             }
         ]
@@ -42,61 +42,61 @@
             {
                 "id": "how-to-install",
                 "title": "How to install as a hot or cold wallet?",
-                "content": "https://walletika.io/data/docs/how-to-install/en.md",
+                "content": "https://walletika.github.io/data/docs/how-to-install/en.md",
                 "date": 1686930394198
             },
             {
                 "id": "how-to-create-wallet",
                 "title": "How to create a wallet or recover an existing wallet?",
-                "content": "https://walletika.io/data/docs/how-to-create-wallet/en.md",
+                "content": "https://walletika.github.io/data/docs/how-to-create-wallet/en.md",
                 "date": 1686930394198
             },
             {
                 "id": "how-to-setup-2fa",
                 "title": "How to setup two-factor authentication or recovery it?",
-                "content": "https://walletika.io/data/docs/how-to-setup-2fa/en.md",
+                "content": "https://walletika.github.io/data/docs/how-to-setup-2fa/en.md",
                 "date": 1686930394198
             },
             {
                 "id": "how-to-add-network",
                 "title": "How to add and remove a blockchain network?",
-                "content": "https://walletika.io/data/docs/how-to-add-network/en.md",
+                "content": "https://walletika.github.io/data/docs/how-to-add-network/en.md",
                 "date": 1686930394198
             },
             {
                 "id": "how-to-add-token",
                 "title": "How to add and remove a token?",
-                "content": "https://walletika.io/data/docs/how-to-add-token/en.md",
+                "content": "https://walletika.github.io/data/docs/how-to-add-token/en.md",
                 "date": 1686930394198
             },
             {
                 "id": "how-to-receive",
                 "title": "How to receive my deposit amount?",
-                "content": "https://walletika.io/data/docs/how-to-receive/en.md",
+                "content": "https://walletika.github.io/data/docs/how-to-receive/en.md",
                 "date": 1686930394198
             },
             {
                 "id": "how-to-send",
                 "title": "How to send a transaction to another wallet?",
-                "content": "https://walletika.io/data/docs/how-to-send/en.md",
+                "content": "https://walletika.github.io/data/docs/how-to-send/en.md",
                 "date": 1686930394198
             },
             {
                 "id": "how-to-show-private-key",
                 "title": "How to get my wallet private key?",
-                "content": "https://walletika.io/data/docs/how-to-show-private-key/en.md",
+                "content": "https://walletika.github.io/data/docs/how-to-show-private-key/en.md",
                 "date": 1686930394198
             },
             {
                 "id": "how-to-backup",
                 "title": "How to backup and import my wallets?",
-                "content": "https://walletika.io/data/docs/how-to-backup/en.md",
+                "content": "https://walletika.github.io/data/docs/how-to-backup/en.md",
                 "date": 1686930394198
             },
             {
                 "id": "how-to-stake",
                 "title": "How to stake, unstake and claim interest?",
-                "content": "https://walletika.io/data/docs/how-to-stake/en.md",
+                "content": "https://walletika.github.io/data/docs/how-to-stake/en.md",
                 "date": 1686930394198
             }
         ]
@@ -108,13 +108,13 @@
             {
                 "id": "privacy-policy",
                 "title": "Privacy Policy",
-                "content": "https://walletika.io/data/docs/privacy-policy/en.md",
+                "content": "https://walletika.github.io/data/docs/privacy-policy/en.md",
                 "date": 1699975502828
             },
             {
                 "id": "terms-of-use",
                 "title": "Terms of Service",
-                "content": "https://walletika.io/data/docs/terms-of-use/en.md",
+                "content": "https://walletika.github.io/data/docs/terms-of-use/en.md",
                 "date": 1686930394198
             }
         ]

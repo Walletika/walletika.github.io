@@ -1,12 +1,12 @@
 We at Walletika Ltd. (“Walletika”, “Company”, “we”, “us”, “our”) respect your privacy. This Privacy Policy (“Policy”) explains the privacy practices for the Walletika mobile application (“App”) and Walletika website [walletika.io](https://walletika.io). It also describes the rights and options available to you with respect to your information.
 
-
 > Last Update: November 14, 2023.\
-> This Policy is combined into our Website [Terms of Use](https://walletika.io/documents/user-agreement/terms-of-use) (the “Terms“) and is a part of them.
-
+> This Policy is combined into our Website [Terms of Use](https://walletika.github.io/documents/user-agreement/terms-of-use) (the “Terms“) and is a part of them.
 
 # Personal Information We Process
+
 ### User Provided Information.
+
 When you register or create a user account, we collect your account ( username, one of passwords and creation date ), RPC provider, transactions details, tokens contracts, and the addresses book you provide in the app.
 
 > All data encrypted and stored locally on your device, we do not store any of the above data on our servers.
@@ -14,31 +14,39 @@ When you register or create a user account, we collect your account ( username, 
 You do not have a legal duty to provide the above information. However, without providing the above information, you will not be able to sign up to, and use the full functionalities of the App, and we will not be able to provide you with support services.
 
 ### Support Information.
+
 When you contact us for technical and customer support requests, we collect the information included in your request and in follow-up interactions we have with you.
 
 ### Inquiry Information.
+
 When you contact us with general inquiries through our online contact forms, chats or otherwise, we collect and process your email address and the information you include in your inquiry.
 
 ### Survey Information.
+
 We may from time to time invite you to participate in surveys about your experience using the App and the Websites. If you agree to participate in a survey, we will collect the information included in your answers to the survey.
 
 ### Transaction Information.
+
 When you activate your App user account, your public key and private key will automatically be created. Using a decentralized login system, we create three parts that can be used together to perform the functionality of a private key. username and one of the passwords will be stored on your device and the second password will not store anywhere. We will also collect information on all transactions connected to your public key created through the App to display as a history for you.
 
 ### Device Information.
+
 We collect information about the device, including its model, its operating system, its version and language preferences.
 
 ### Data Retention Policy, Managing Your Information.
+
 We will retain User Provided data locally on user device for as long as you use the Application and for a reasonable time thereafter.
 
 ## Does the Application collect precise real-time location information of the device?
+
 This Application does not collect precise information about the location of your mobile device.
 
 ## What are my opt-out rights?
+
 You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-
 ## How We Process And Use Personal Information?
+
 - We will process your information to provide you with the App features and functionality
 
 - We process your account Information, and Transaction Information to operate the App and provide you with its features and functionality.
@@ -63,24 +71,28 @@ You can stop all collection of information by the Application easily by uninstal
 
 - We process your email to contact you, from time to time, and invite you to participate in surveys about your experience using the App and Websites. If you agree to participate in a survey, we use your answers to further enhance and develop the App and Websites, or as otherwise explained in each particular survey.
 
-
 ## When And How Your Personal Information Is Shared With Others
+
 We will not share your Information with third parties, except in the events listed below or when you provide us your explicit and informed consent.
 
 ### We will share information with our service providers that are helping us to operate the App and Websites
+
 We will share your Information with our service providers who assist us with the internal operations of the App and Websites. These companies are authorized to use your personal information only as necessary to provide these services to us and not for their own promotional purposes. We do not sell your personal information to third parties.
 
 ### We will share information with Third Party Platforms if you use their services to transfer Assets
+
 We will share your Information If you use services provided by Third Party Platforms, such as purchasing crypto with fiat currency or locking funds into an interest-bearing smart contract, Walletika will share your digital wallet address with these Third Party Platforms in order to enable the transfer of cryptocurrencies, tokens and digital assets (“Assets”) from and to your digital wallet on the App.
 
 ### We will share your Information with competent authorities, if you violated any applicable law in connection with the App and Websites
+
 We will share your Information If you violated any applicable law, your Information will be shared with competent authorities and with third parties (such as legal counsels and advisors), for the purpose of handling of the violation.
 
 ### We will share your Information if we are legally required to
+
 We will share your Information If we are required to disclose your it by a judicial, governmental or regulatory authority.
 
-
 # COOKIES
+
 ### What are cookies?
 
 Cookies are text files, comprised of small amounts of data, that are saved on your computer or other device (e.g., smartphone, tablet, etc.) when you use the internet and visit various websites.
@@ -107,12 +119,12 @@ You can always delete or disable cookies.
 
 Other than using the cookie add-on, you can always delete or disable the cookies saved on your device through the settings of your computer browser or device.
 
-
 # Security
+
 We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect the information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. However, these measures do not provide absolute information security. Therefore, although efforts are made to secure your personal information, it is not guaranteed, and you cannot expect that the App and Websites will be immune from information security risks.
 
-
 # Legal Basis for Processing Your Data.
+
 - The legal basis for processing your Information for the purpose of operating the App and Websites and providing their features is the performance of our contract with you as part of our Terms and our legitimate interests in the proper management and operation of the App and Websites.
 
 - The legal basis for processing your Information for the purpose of sending you notifications (including Promotional Communications) relating to Walletika is our legitimate interests in informing users of administrative issues and encouraging user engagement with Walletika.
@@ -131,8 +143,8 @@ We are concerned about safeguarding the confidentiality of your information. We 
 
 - The legal basis for processing your Information for the purpose of notifying you or providing you with updates to this Policy is our necessity for compliance with legal obligations under the GDPR.
 
-
 ### You have certain rights to access, update or delete your information, obtain a copy of your information, withdraw your consent and object or restrict certain data processing activities.
+
 You have the following rights:
 
 - Right to Access your Personal Information that we process and receive a copy of it.
@@ -157,21 +169,21 @@ You have the following rights:
 
 - If you are in the UK, you can lodge a complaint to Information Commissioner’s Office (ICO) pursuant to the instructions provided [here](https://ico.org.uk/make-a-complaint/).
 
-
 # Minors
+
 The App and Websites are not directed to users under 18.
 The App and Websites are not intended for children under the age of 18. We do not knowingly or intentionally collect information about children who are under 13 years of age.
 
 > IF YOU ARE UNDER THE AGE OF 13 YOU MAY NOT USE THE APP OR WEBSITES IN ANY WAY.
 
-
 # Changes
+
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-
 # Your Consent
+
 By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us.
 
-
 # Contact us
+
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at [support@walletika.io](support@walletika.io).

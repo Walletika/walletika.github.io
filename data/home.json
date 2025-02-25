@@ -1,74 +1,74 @@
 [
     {
-        "image": "https://walletika.io/images/binance.png",
+        "image": "https://walletika.github.io/images/binance.png",
         "name": "Binance"
     },
     {
-        "image": "https://walletika.io/images/coinbase.png",
+        "image": "https://walletika.github.io/images/coinbase.png",
         "name": "Coinbase"
     },
     {
-        "image": "https://walletika.io/images/huobi.png",
+        "image": "https://walletika.github.io/images/huobi.png",
         "name": "Huobi"
     },
     {
-        "image": "https://walletika.io/images/Cryptocom.png",
+        "image": "https://walletika.github.io/images/Cryptocom.png",
         "name": "Crypto.com"
     },
     {
-        "image": "https://walletika.io/images/bybit.png",
+        "image": "https://walletika.github.io/images/bybit.png",
         "name": "ByBit"
     },
     {
-        "image": "https://walletika.io/images/okx.png",
+        "image": "https://walletika.github.io/images/okx.png",
         "name": "OKX"
     },
     {
-        "image": "https://walletika.io/images/gateio.png",
+        "image": "https://walletika.github.io/images/gateio.png",
         "name": "Gate.io"
     },
     {
-        "image": "https://walletika.io/images/kucoin.png",
+        "image": "https://walletika.github.io/images/kucoin.png",
         "name": "KuCoin"
     },
     {
-        "image": "https://walletika.io/images/bitmart.png",
+        "image": "https://walletika.github.io/images/bitmart.png",
         "name": "BitMart"
     },
     {
-        "image": "https://walletika.io/images/bitget.png",
+        "image": "https://walletika.github.io/images/bitget.png",
         "name": "BitGet"
     },
     {
-        "image": "https://walletika.io/images/uniswap.png",
+        "image": "https://walletika.github.io/images/uniswap.png",
         "name": "Uniswap"
     },
     {
-        "image": "https://walletika.io/images/pancakeswap.png",
+        "image": "https://walletika.github.io/images/pancakeswap.png",
         "name": "PancakeSwap"
     },
     {
-        "image": "https://walletika.io/images/bitgert.png",
+        "image": "https://walletika.github.io/images/bitgert.png",
         "name": "Bitgert"
     },
     {
-        "image": "https://walletika.io/images/aurora.png",
+        "image": "https://walletika.github.io/images/aurora.png",
         "name": "Aurora"
     },
     {
-        "image": "https://walletika.io/images/nuls.png",
+        "image": "https://walletika.github.io/images/nuls.png",
         "name": "NULS"
     },
     {
-        "image": "https://walletika.io/images/eurs.png",
+        "image": "https://walletika.github.io/images/eurs.png",
         "name": "STASIS/EURS"
     },
     {
-        "image": "https://walletika.io/images/coinmarketcap.png",
+        "image": "https://walletika.github.io/images/coinmarketcap.png",
         "name": "CoinMarketCap"
     },
     {
-        "image": "https://walletika.io/images/coingecko.png",
+        "image": "https://walletika.github.io/images/coingecko.png",
         "name": "CoinGecko"
     }
 ]

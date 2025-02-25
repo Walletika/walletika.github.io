@@ -780,8 +780,6 @@ body {
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
   justify-content: flex-end;
   align-items: flex-start;
   min-height: 450px;

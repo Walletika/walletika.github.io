@@ -1,74 +1,74 @@
 [
     {
-        "image": "https://walletika.github.io/images/binance.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/binance.png",
         "name": "Binance"
     },
     {
-        "image": "https://walletika.github.io/images/coinbase.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/coinbase.png",
         "name": "Coinbase"
     },
     {
-        "image": "https://walletika.github.io/images/huobi.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/huobi.png",
         "name": "Huobi"
     },
     {
-        "image": "https://walletika.github.io/images/Cryptocom.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/Cryptocom.png",
         "name": "Crypto.com"
     },
     {
-        "image": "https://walletika.github.io/images/bybit.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/bybit.png",
         "name": "ByBit"
     },
     {
-        "image": "https://walletika.github.io/images/okx.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/okx.png",
         "name": "OKX"
     },
     {
-        "image": "https://walletika.github.io/images/gateio.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/gateio.png",
         "name": "Gate.io"
     },
     {
-        "image": "https://walletika.github.io/images/kucoin.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/kucoin.png",
         "name": "KuCoin"
     },
     {
-        "image": "https://walletika.github.io/images/bitmart.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/bitmart.png",
         "name": "BitMart"
     },
     {
-        "image": "https://walletika.github.io/images/bitget.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/bitget.png",
         "name": "BitGet"
     },
     {
-        "image": "https://walletika.github.io/images/uniswap.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/uniswap.png",
         "name": "Uniswap"
     },
     {
-        "image": "https://walletika.github.io/images/pancakeswap.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/pancakeswap.png",
         "name": "PancakeSwap"
     },
     {
-        "image": "https://walletika.github.io/images/bitgert.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/bitgert.png",
         "name": "Bitgert"
     },
     {
-        "image": "https://walletika.github.io/images/aurora.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/aurora.png",
         "name": "Aurora"
     },
     {
-        "image": "https://walletika.github.io/images/nuls.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/nuls.png",
         "name": "NULS"
     },
     {
-        "image": "https://walletika.github.io/images/eurs.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/eurs.png",
         "name": "STASIS/EURS"
     },
     {
-        "image": "https://walletika.github.io/images/coinmarketcap.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/coinmarketcap.png",
         "name": "CoinMarketCap"
     },
     {
-        "image": "https://walletika.github.io/images/coingecko.png",
+        "image": "https://raw.githubusercontent.com/Walletika/walletika-web-fetch/refs/heads/main/images/coingecko.png",
         "name": "CoinGecko"
     }
 ]

@@ -1,4 +1,4 @@
-Walletika Platform, Inc. and/or its affiliates (“we,” “our,” or “us”) provides its software services through its website located at [walletika.io](https://walletika.io) and related mobile applications and products (collectively the “Services” or “Walletika”).
+Walletika Platform, Inc. and/or its affiliates (“we,” “our,” or “us”) provides its software services through its website located at [walletika.io](https://walletika.github.io) and related mobile applications and products (collectively the “Services” or “Walletika”).
 Before using our Services, please read the Terms of Service (the “Terms”) carefully, along with any other policies or notices on our website or mobile applications.
 
 ## AGREEMENT TO TERMS

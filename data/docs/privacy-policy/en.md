@@ -1,4 +1,4 @@
-We at Walletika Ltd. (“Walletika”, “Company”, “we”, “us”, “our”) respect your privacy. This Privacy Policy (“Policy”) explains the privacy practices for the Walletika mobile application (“App”) and Walletika website [walletika.io](https://walletika.io). It also describes the rights and options available to you with respect to your information.
+We at Walletika Ltd. (“Walletika”, “Company”, “we”, “us”, “our”) respect your privacy. This Privacy Policy (“Policy”) explains the privacy practices for the Walletika mobile application (“App”) and Walletika website [walletika.io](https://walletika.github.io). It also describes the rights and options available to you with respect to your information.
 
 > Last Update: November 14, 2023.\
 > This Policy is combined into our Website [Terms of Use](https://walletika.github.io/documents/user-agreement/terms-of-use) (the “Terms“) and is a part of them.
